@@ -3,16 +3,16 @@
 ICES provides four GitHub areas to facilitate scientific collaboration in marine
 research:
 
-1. Expert Groups
+1. Expert Groups<br>
 https://github.com/ices-eg
 
-2. Tools under development
+2. Tools under development<br>
 https://github.com/ices-tools-dev
 
-3. Tools maintained by ICES
+3. Tools maintained by ICES<br>
 https://github.com/ices-tools-prod
 
-4. Transparent Assessment Framework
+4. Transparent Assessment Framework<br>
 https://github.com/ices-taf
 
 The code in these repositories can be browsed and downloaded. To apply for write
@@ -29,11 +29,9 @@ The main guidelines for working in the ICES GitHub areas are:
 
 - Expert Group chairs may recommend a certain GitHub workflow for that group.
 
-The main GitHub help page can be found at:
-
+The main GitHub help page can be found at:<br>
 https://help.github.com
 
 Other help resources, including the Git book, are listed in the R development
-guidelines used by the ICES Secretariat:
-
+guidelines used by the ICES Secretariat:<br>
 https://github.com/ices-tools-prod/doc
