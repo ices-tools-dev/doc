@@ -32,6 +32,9 @@ The main guidelines for working in the ICES GitHub areas are:
 The main GitHub help page can be found at:<br>
 https://help.github.com
 
+A hello world tutorial can be found at:<br>
+https://guides.github.com/activities/hello-world/
+
 Other help resources, including the Git book, are listed in the R development
 guidelines used by the ICES Secretariat:<br>
 https://github.com/ices-tools-prod/doc
