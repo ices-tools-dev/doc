@@ -18,7 +18,7 @@ https://github.com/ices-taf
 The code in these repositories can be browsed and downloaded. To apply for write
 access to specific repositories, please send an email to github@ices.dk.
 
-The distinction between the tools-prod and tools-dev areas is that
+The distinction between tools-prod and tools-dev is that
 github.com/**ices-tools-prod** contains software that is operational and
 maintained by the ICES Secretariat, while github.com/**ices-tools-dev** contains
 everything else (operational software maintained by scientists outside the
