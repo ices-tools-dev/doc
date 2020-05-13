@@ -58,6 +58,8 @@ special directory on the hard drive that is linked to the GitHub repository.
 This will create a `Git` tab in the upper-right window, containing the following
 commands:
 
+Command  | Purpose
+-------- | ---------------------------------------------
 `Commit` | Write a log message about changes in files
 `Pull`   | Get the newest updates from GitHub repository
 `Push`   | Submit committed changes to GitHub repository
