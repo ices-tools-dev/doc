@@ -47,7 +47,7 @@ The main guidelines for working in the ICES GitHub areas are:
 
 Most ICES scientists connect to their GitHub repositories inside RStudio. The
 very first steps for beginning users are then to install the required software
-(R, RStudio, Git), create a username on https://github.com and register their
+(R, RStudio, Git), create a username on https://github.com, and register their
 username on https://taf.ices.dk/github.
 
 To work on a repository in RStudio, select `File - New Project - Version
