@@ -31,6 +31,10 @@ The main guidelines for working in the ICES GitHub areas are:
 - Users should provide their full name in their GitHub profile
   (https://github.com/settings/profile).
 
+- Users should register their GitHub user name at https://taf.ices.dk/github.
+  This allows you to be added as a member of your ICES Working Groups on GitHub
+  and get write access to repositories.
+
 - Repositories should be kept under 1 GB and should mainly contain code and
   configuration files. Large datasets, images, and documents are better stored
   elsewhere.
