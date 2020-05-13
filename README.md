@@ -53,8 +53,9 @@ username on https://taf.ices.dk/github.
 To work on a repository in RStudio, select `File - New Project - Version
 Control - Git`, then paste the URL (e.g. https://github.com/ices-eg/wg_HAWG) and
 create the project. This action is called to *clone* a repository, creating a
-special directory on the hard drive that is linked to the GitHub repository. A
-Git tab will now appear in the upper-right window, containing the following
+special directory on the hard drive that is linked to the GitHub repository.
+
+A Git tab will now appear in the upper-right window, containing the following
 commands:
 
 Command  | Purpose
