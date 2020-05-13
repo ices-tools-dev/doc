@@ -43,7 +43,7 @@ The main guidelines for working in the ICES GitHub areas are:
 
 ***
 
-**Introduction to GitHub**
+### Introduction to GitHub
 
 Most ICES scientists connect to their GitHub repositories inside RStudio. The
 very first steps for beginning users are then to install the required software
