@@ -84,4 +84,4 @@ https://guides.github.com/activities/hello-world/
 
 Other help resources, including the Git book, are listed in the R development
 guidelines used by the ICES Secretariat:<br>
-https://github.com/ices-tools-prod/doc
+https://github.com/ices-tools-prod/doc#62-development-tools
