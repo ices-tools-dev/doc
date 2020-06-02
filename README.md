@@ -76,6 +76,8 @@ window will show useful commands to *diff* and *revert* changes.
 
 ***
 
+### Useful links
+
 The main GitHub help page can be found at:<br>
 https://help.github.com
 
