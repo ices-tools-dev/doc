@@ -84,8 +84,8 @@ https://help.github.com
 A hello world tutorial can be found at:<br>
 https://guides.github.com/activities/hello-world/
 
-A very usefull guide on how to get yourself out of a fix and many other helpful 
-git commands can be found here:<br>
+A very useful guide on how to get yourself out of a fix and many other helpful 
+Git commands can be found here:<br>
 https://github.com/k88hudson/git-flight-rules
 
 Other help resources, including the Git book, are listed in the R development
