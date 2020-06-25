@@ -90,6 +90,10 @@ A very useful guide on how to get yourself out of a fix and many other helpful
 Git commands can be found here:<br>
 https://github.com/k88hudson/git-flight-rules
 
+Happy Git provides opinionated instructions on how to install Git and link
+RStudio with Git and Github:
+https://happygitwithr.com/rstudio-git-github.html
+
 Other help resources, including the Git book, are listed in the ICES R development
 guidelines:<br>
 https://github.com/ices-tools-prod/doc#62-development-tools
