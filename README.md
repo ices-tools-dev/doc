@@ -34,9 +34,6 @@ generate some ICES publications.
 
 The main guidelines for working in the ICES GitHub areas are:
 
-- Users should provide their full name in their GitHub profile
-  (https://github.com/settings/profile).
-
 - Users should register their GitHub username at https://taf.ices.dk/github.
   This allows you to be added as a member of your ICES Working Groups on GitHub
   and get write access to repositories.
@@ -47,6 +44,10 @@ The main guidelines for working in the ICES GitHub areas are:
 
 - Expert Group chairs may recommend a certain GitHub workflow for that group.
 
+- It is suggested that users provide their full name in their GitHub profile
+  (https://github.com/settings/profile), so that others can see who is doing
+  what, but this is not a strict rule.
+  
 ***
 
 ### Introduction to GitHub
