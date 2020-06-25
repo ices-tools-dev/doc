@@ -1,6 +1,6 @@
 # ICES GitHub Guidelines
 
-ICES provides four GitHub areas to facilitate scientific collaboration in marine
+ICES provides the following GitHub areas to facilitate scientific collaboration in marine
 research:
 
 1. Expert Groups<br>
