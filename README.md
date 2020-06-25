@@ -43,8 +43,7 @@ The main guidelines for working in the ICES GitHub areas are:
   configuration files. Please contact github@ices.dk if you are working with large
   datasets.
 
-- Expert Group chairs are free to recommend a certain GitHub workflow for that 
-  group.
+- Expert Group chairs are free to recommend a certain workflow for that group.
 
 - It is suggested that users provide their full name in their GitHub profile
   (https://github.com/settings/profile), so that others can see who is doing
