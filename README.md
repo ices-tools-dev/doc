@@ -3,17 +3,17 @@
 ICES provides the following GitHub areas to facilitate scientific collaboration in marine
 research:
 
-1. Expert Groups<br>
+1. Transparent Assessment Framework<br>
+https://github.com/ices-taf
+
+2. Expert Groups<br>
 https://github.com/ices-eg
 
-2. Tools under development<br>
+3. Tools under development<br>
 https://github.com/ices-tools-dev
 
-3. Tools maintained by ICES<br>
+4. Tools maintained by ICES<br>
 https://github.com/ices-tools-prod
-
-4. Transparent Assessment Framework<br>
-https://github.com/ices-taf
 
 5. ICES Publications<br>
 https://github.com/ices-publications
@@ -21,14 +21,15 @@ https://github.com/ices-publications
 The code in these repositories can be browsed and downloaded. To apply for write
 access to specific repositories, please send an email to github@ices.dk.
 
-The distinction between tools-prod and tools-dev is that
-github.com/**ices-tools-prod** contains software that is operational and
-maintained by the ICES Secretariat, while github.com/**ices-tools-dev** contains
+The distinction between tools-prod and tools-dev is that 
+[github.com/**ices-tools-prod**](https://github.com/ices-tools-prod) contains 
+software that is operational and maintained by the ICES Secretariat, while 
+[github.com/**ices-tools-dev**](https://github.com/ices-tools-dev) contains
 everything else (operational software maintained by scientists outside the
 Secretariat, experimental projects, etc.)
 
-github.com/**ices-publications** contains the text and source files necessary to 
-generate some ICES publications.
+[github.com/**ices-publications**](https://github.com/ices-publications) contains 
+the text and source files necessary to generate some ICES publications.
 
 ***
 
