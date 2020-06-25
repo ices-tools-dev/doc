@@ -90,6 +90,6 @@ A very useful guide on how to get yourself out of a fix and many other helpful
 Git commands can be found here:<br>
 https://github.com/k88hudson/git-flight-rules
 
-Other help resources, including the Git book, are listed in the R development
-guidelines used by the ICES Secretariat:<br>
+Other help resources, including the Git book, are listed in the ICES R development
+guidelines:<br>
 https://github.com/ices-tools-prod/doc#62-development-tools
