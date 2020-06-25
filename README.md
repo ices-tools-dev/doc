@@ -39,10 +39,11 @@ The main guidelines for working in the ICES GitHub areas are:
   and get write access to repositories.
 
 - Repositories should be kept under 1 GB and should mainly contain code and
-  configuration files. Large datasets, images, and documents are better stored
-  elsewhere.
+  configuration files. Please contact github@ices.dk if you are working with large
+  datasets.
 
-- Expert Group chairs may recommend a certain GitHub workflow for that group.
+- Expert Group chairs are free to recommend a certain GitHub workflow for that 
+  group.
 
 - It is suggested that users provide their full name in their GitHub profile
   (https://github.com/settings/profile), so that others can see who is doing
